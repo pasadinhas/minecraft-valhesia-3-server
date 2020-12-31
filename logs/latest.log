@@ -1,243 +1,277 @@
-[30Dec2020 00:03:34.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Suit Up]
-[30Dec2020 00:19:46.392] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[30Dec2020 00:19:46.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[30Dec2020 00:19:46.435] [Thread-157/INFO] [FTB Utilities Backups/]: Backing up 99 files...
-[30Dec2020 00:19:46.437] [Thread-157/INFO] [FTB Utilities Backups/]: Compressing 99 files...
-[30Dec2020 00:19:48.282] [Thread-157/INFO] [FTB Utilities Backups/]: Done compressing in 00:01 seconds (40.4MB)!
-[30Dec2020 00:19:48.282] [Thread-157/INFO] [FTB Utilities Backups/]: Created C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\backups\2020-12-30-00-19-46.zip from C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\world
-[30Dec2020 00:19:48.292] [Thread-157/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:01! (40.4MB)
-[30Dec2020 00:31:39.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Amateur Archaeologist]
-[30Dec2020 00:33:35.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Not Today, Thank You]
-[30Dec2020 00:54:20.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Isn't It Iron Pick]
-[30Dec2020 00:56:28.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Basic Tinkering]
-[30Dec2020 01:00:04.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Best Friends Forever]
-[30Dec2020 01:13:13.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [A Seedy Place]
-[30Dec2020 01:15:45.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas was shot by Baby Skeleton
-[30Dec2020 01:15:53.197] [Netty Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 01:17:03.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas fell from a high place
-[30Dec2020 01:17:09.067] [Netty Server IO #10/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 01:23:27.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Acquire Hardware]
-[30Dec2020 01:23:42.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Isn't It Iron Pick]
-[30Dec2020 01:28:04.541] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6e081851-c387-4d6d-ab54-81dfa48ef69f. Existing quark:frog#15179, new: quark:frog#15179
-[30Dec2020 01:58:07.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Hot Stuff]
-[30Dec2020 01:58:34.438] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 66f92078-6221-4507-b97c-ff7e48ff5fd0. Existing quark:frog#16530, new: quark:frog#16530
-[30Dec2020 02:07:22.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [That's No Carrot...]
-[30Dec2020 02:19:46.443] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[30Dec2020 02:19:46.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[30Dec2020 02:19:46.492] [Thread-220/INFO] [FTB Utilities Backups/]: Backing up 113 files...
-[30Dec2020 02:19:46.494] [Thread-220/INFO] [FTB Utilities Backups/]: Compressing 113 files...
-[30Dec2020 02:19:49.842] [Thread-220/INFO] [FTB Utilities Backups/]: Done compressing in 00:03 seconds (75.2MB)!
-[30Dec2020 02:19:49.842] [Thread-220/INFO] [FTB Utilities Backups/]: Created C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\backups\2020-12-30-02-19-46.zip from C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\world
-[30Dec2020 02:19:49.846] [Thread-220/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:03! (75.2MB | 115.6MB)
-[30Dec2020 02:38:04.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Hollow Solids]
-[30Dec2020 02:40:24.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Sobriety Test]
-[30Dec2020 02:40:48.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Hollow Solids]
-[30Dec2020 02:49:02.652] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:iron_golem from 0beb6478-bc7d-4276-b9db-3fc6fc4bc221 to 56c6329a-98a1-4656-b8a5-84fba087627c
-[30Dec2020 02:49:02.653] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from e11df817-25a3-4028-85dd-81edd894c8ca to 49405e5b-04c0-4bbe-88f1-5945991ed7ff
-[30Dec2020 02:49:21.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir was slain by Zombie
-[30Dec2020 02:49:26.323] [Netty Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 02:52:23.996] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:iron_golem from 0beb6478-bc7d-4276-b9db-3fc6fc4bc221 to bea64e44-cba3-4d0b-956e-da6806aadee9
-[30Dec2020 02:52:23.996] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:villager from e11df817-25a3-4028-85dd-81edd894c8ca to 054eedf4-d233-4db0-a6aa-4df1591a6c4e
-[30Dec2020 03:03:03.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Sobriety Test]
-[30Dec2020 03:06:16.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir blew up
-[30Dec2020 03:06:17.588] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pasadinhas lost connection: Disconnected
-[30Dec2020 03:06:17.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas left the game
-[30Dec2020 03:06:22.962] [Netty Server IO #12/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 03:14:06.921] [Netty Server IO #17/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[30Dec2020 03:14:07.504] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pasadinhas is b9669fc1-c7b5-408a-a1c3-b78aa3e16e55
-[30Dec2020 03:14:20.514] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4941eae3
-[30Dec2020 03:14:20.535] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pasadinhas[/127.0.0.1:52344] logged in with entity id 21870 at (-254.14992709730973, 11.0, 2032.643224343463)
-[30Dec2020 03:14:20.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas joined the game
-[30Dec2020 03:14:20.574] [Server thread/INFO] [Waila/]: Syncing config to pasadinhas (b9669fc1-c7b5-408a-a1c3-b78aa3e16e55)
-[30Dec2020 03:14:20.576] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: pasadinhas
-[30Dec2020 03:14:20.745] [Netty Server IO #17/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 03:15:32.607] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pasadinhas lost connection: Disconnected
-[30Dec2020 03:15:32.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas left the game
-[30Dec2020 03:19:09.900] [Netty Server IO #20/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
-[30Dec2020 03:19:10.706] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pasadinhas is b9669fc1-c7b5-408a-a1c3-b78aa3e16e55
-[30Dec2020 03:19:23.401] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@9f5a37f
-[30Dec2020 03:19:23.412] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pasadinhas[/127.0.0.1:52791] logged in with entity id 22334 at (-254.14992709730973, 11.0, 2032.643224343463)
-[30Dec2020 03:19:23.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas joined the game
-[30Dec2020 03:19:23.441] [Server thread/INFO] [Waila/]: Syncing config to pasadinhas (b9669fc1-c7b5-408a-a1c3-b78aa3e16e55)
-[30Dec2020 03:19:23.442] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: pasadinhas
-[30Dec2020 03:19:23.587] [Netty Server IO #20/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@1dd5ecb9 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
-[30Dec2020 03:27:53.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Diamonds!]
-[30Dec2020 03:31:45.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Ice Bucket Challenge]
-[30Dec2020 03:32:21.937] [Server thread/INFO] [STDOUT/]: [com.mrcrayfish.goblintraders.world.spawner.GoblinTraderSpawner:findGround:165]: minecraft:air
-[30Dec2020 03:40:19.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Sky of Beginning]
-[30Dec2020 03:44:07.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Diamonds!]
-[30Dec2020 03:45:40.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Ice Bucket Challenge]
-[30Dec2020 03:52:49.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Best Friends Forever]
-[30Dec2020 03:56:18.342] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Donkey (vehicle of pasadinhas) moved wrongly! 0.30102363017783773
-[30Dec2020 03:56:57.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3102763791951588
-[30Dec2020 03:56:57.119] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3710585117183314
-[30Dec2020 03:56:57.214] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4373143439765954
-[30Dec2020 03:56:57.321] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4984239602350726
-[30Dec2020 03:56:57.422] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4617506720597362
-[30Dec2020 03:56:57.723] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2837855831262459
-[30Dec2020 03:56:57.756] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3477293598044753
-[30Dec2020 03:56:57.871] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.34752076128535236
-[30Dec2020 03:56:57.972] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.36962589337622376
-[30Dec2020 03:59:29.349] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3651444580311818
-[30Dec2020 03:59:29.449] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.42102583891977474
-[30Dec2020 03:59:29.558] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.48694370226905903
-[30Dec2020 03:59:29.802] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2524406128476926
-[30Dec2020 03:59:29.902] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.31899220342432955
-[30Dec2020 03:59:29.998] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.38501731747442136
-[30Dec2020 03:59:30.117] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4503456422596628
-[30Dec2020 04:04:00.012] [Worker-Main-1949/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
-[30Dec2020 04:04:00.012] [Worker-Main-1949/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
-[30Dec2020 04:04:00.016] [Worker-Main-1949/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
-[30Dec2020 04:13:29.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <pasadinhas> 240 1618
-[30Dec2020 04:19:46.494] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[30Dec2020 04:19:46.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[30Dec2020 04:19:46.552] [Thread-312/INFO] [FTB Utilities Backups/]: Backing up 126 files...
-[30Dec2020 04:19:46.554] [Thread-312/INFO] [FTB Utilities Backups/]: Compressing 126 files...
-[30Dec2020 04:19:51.049] [Thread-312/INFO] [FTB Utilities Backups/]: Done compressing in 00:04 seconds (100.5MB)!
-[30Dec2020 04:19:51.050] [Thread-312/INFO] [FTB Utilities Backups/]: Created C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\backups\2020-12-30-04-19-46.zip from C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\world
-[30Dec2020 04:19:51.054] [Thread-312/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:04! (100.5MB | 216.1MB)
-[30Dec2020 04:20:34.441] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e4e1a520-30aa-4956-a806-59237b6b3184. Existing quark:frog#30144, new: quark:frog#30144
-[30Dec2020 04:33:06.116] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.40381247338348203
-[30Dec2020 04:33:06.226] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4736971612018692
-[30Dec2020 04:33:06.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2997395378488932
-[30Dec2020 04:33:06.627] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.36525256194937583
-[30Dec2020 04:33:06.670] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4299924425309314
-[30Dec2020 04:33:06.767] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.42601996072409065
-[30Dec2020 04:33:06.872] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4837301227400417
-[30Dec2020 04:37:18.069] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.26886800142750644
-[30Dec2020 04:37:18.071] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.8030318973021053
-[30Dec2020 04:41:26.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [A Realistical Logical Ideologist]
-[30Dec2020 04:55:58.742] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Bukjir lost connection: Disconnected
-[30Dec2020 04:55:58.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir left the game
-[30Dec2020 04:56:08.739] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pasadinhas lost connection: Disconnected
-[30Dec2020 04:56:08.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas left the game
-[30Dec2020 04:56:31.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
-[30Dec2020 04:56:31.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
-[30Dec2020 04:56:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[30Dec2020 04:56:36.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: exit<--[HERE]
-[30Dec2020 04:56:38.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[30Dec2020 04:56:38.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: quit<--[HERE]
-[30Dec2020 04:57:31.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
-[30Dec2020 04:57:31.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /as (attune|constellation|exp|maximize|progress|reset)
-[30Dec2020 04:57:31.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /astralsorcery -> as
-[30Dec2020 04:57:31.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (base|get|modifier)
-[30Dec2020 04:57:31.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
-[30Dec2020 04:57:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
-[30Dec2020 04:57:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
-[30Dec2020 04:57:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bookshelf (hand|lootchest|translate)
-[30Dec2020 04:57:31.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
-[30Dec2020 04:57:31.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /carryon (clear|debug)
-[30Dec2020 04:57:31.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ccl (count|gc|killall|meminfo)
-[30Dec2020 04:57:31.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /chickenchunks restrict player <players> (allow_offline|allowed_chunks|chunks_per_loader|offline_timeout|reset)
-[30Dec2020 04:57:31.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
-[30Dec2020 04:57:31.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clearcosarmor [<targets>]
-[30Dec2020 04:57:31.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[30Dec2020 04:57:31.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cofh (charge|enderchest|friend|heal|ignite|invis|invuln|repair|zap)
-[30Dec2020 04:57:31.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /computercraft [dump|help|queue|shutdown|tp|track|turn-on|view]
-[30Dec2020 04:57:31.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
-[30Dec2020 04:57:31.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /create (chunk|clearRenderBuffers|fixLighting|overlay|toggleDebug)
-[30Dec2020 04:57:31.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (add|clear|lock|remove|reset|set|unlock)
-[30Dec2020 04:57:31.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|modify|remove)
-[30Dec2020 04:57:31.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
-[30Dec2020 04:57:31.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (report|start|stop)
-[30Dec2020 04:57:31.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
-[30Dec2020 04:57:31.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultoptions (saveAll|saveKeys|saveOptions|saveServers)
-[30Dec2020 04:57:31.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
-[30Dec2020 04:57:31.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
-[30Dec2020 04:57:31.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dumpHandlers
-[30Dec2020 04:57:31.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
-[30Dec2020 04:57:31.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
-[30Dec2020 04:57:31.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[30Dec2020 04:57:31.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
-[30Dec2020 04:57:31.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[30Dec2020 04:57:31.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
-[30Dec2020 04:57:31.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
-[30Dec2020 04:57:31.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ftbbackups (size|start|time)
-[30Dec2020 04:57:31.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
-[30Dec2020 04:57:31.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
-[30Dec2020 04:57:31.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|asIgnoreSkylightCheck|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[30Dec2020 04:57:31.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
-[30Dec2020 04:57:31.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
-[30Dec2020 04:57:31.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ie (clearshaders|mineral|resetmanual|resetrender)
-[30Dec2020 04:57:31.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /invsorter [bladd|blremove|list|showlast]
-[30Dec2020 04:57:31.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ip reservoir (get|list|setAmount|setCapacity|setTest)
-[30Dec2020 04:57:31.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
-[30Dec2020 04:57:31.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
-[30Dec2020 04:57:31.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kiwi cleanWorld
-[30Dec2020 04:57:31.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kjs_hand
-[30Dec2020 04:57:31.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kubejs (check_recipe_conflicts|hand|input_recipes|list_tag|output_recipes|wiki)
-[30Dec2020 04:57:31.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
-[30Dec2020 04:57:31.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (astralsorcery:ancient_shrine|astralsorcery:desert_shrine|astralsorcery:small_shrine|bastion_remnant|bettermineshafts:mineshaft|buried_treasure|conjurer_illager:theatre|desert_pyramid|eidolon:catacomb|eidolon:lab|eidolon:stray_tower|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|mysticalworld:barrow|mysticalworld:hut|mysticalworld:ruined_hut|nether_fossil|ocean_ruin|pillager_outpost|quark:big_dungeon|ruined_portal|shipwreck|stronghold|swamp_hut|valhelsia_structures:castle|valhelsia_structures:castle_ruin|valhelsia_structures:desert_house|valhelsia_structures:forge|valhelsia_structures:player_house|valhelsia_structures:small_castle|valhelsia_structures:small_dungeon|valhelsia_structures:tower_ruin|village)
-[30Dec2020 04:57:31.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
-[30Dec2020 04:57:31.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (give|insert|replace|spawn)
-[30Dec2020 04:57:31.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mc (backup|citizens|colony|forceunloadchunks|help|home|kill|prune-world-now|raid-All|resetsupplies|rtp|whereami|whoami)
-[30Dec2020 04:57:31.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
-[30Dec2020 04:57:31.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mek (chunk|debug|radiation|retrogen|testrules)
-[30Dec2020 04:57:31.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /minecolonies (backup|citizens|colony|forceunloadchunks|help|home|kill|prune-world-now|raid-All|resetsupplies|rtp|whereami|whoami)
-[30Dec2020 04:57:31.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
-[30Dec2020 04:57:31.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
-[30Dec2020 04:57:31.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
-[30Dec2020 04:57:31.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
-[30Dec2020 04:57:31.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
-[30Dec2020 04:57:31.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
-[30Dec2020 04:57:31.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /performant (collidenearby|disableLoadBalancing|enableLoadBalancing|recordMessages|reportEntities|reportEvents|reportMessages|reportTileEntities|startGatherData|whatsnearby)
-[30Dec2020 04:57:31.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[30Dec2020 04:57:31.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /polymorph conflicts
-[30Dec2020 04:57:31.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
-[30Dec2020 04:57:31.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /refinedstorage (disk|network|pattern)
-[30Dec2020 04:57:31.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
-[30Dec2020 04:57:31.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
-[30Dec2020 04:57:31.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rpconfigreload
-[30Dec2020 04:57:31.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /runelic (book|hand|say|tile)
-[30Dec2020 04:57:31.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
-[30Dec2020 04:57:31.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
-[30Dec2020 04:57:31.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
-[30Dec2020 04:57:31.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
-[30Dec2020 04:57:31.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (clear|function)
-[30Dec2020 04:57:31.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
-[30Dec2020 04:57:31.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
-[30Dec2020 04:57:31.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[30Dec2020 04:57:31.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
-[30Dec2020 04:57:31.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
-[30Dec2020 04:57:31.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
-[30Dec2020 04:57:31.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
-[30Dec2020 04:57:31.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[30Dec2020 04:57:31.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
-[30Dec2020 04:57:31.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[30Dec2020 04:57:31.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /structure_gel (biomedict|getspawns|savestructures)
-[30Dec2020 04:57:31.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /structurize (linksession|scan)
-[30Dec2020 04:57:31.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
-[30Dec2020 04:57:31.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
-[30Dec2020 04:57:31.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
-[30Dec2020 04:57:31.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
-[30Dec2020 04:57:31.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
-[30Dec2020 04:57:31.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
-[30Dec2020 04:57:31.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
-[30Dec2020 04:57:31.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tgen <feature> [<pos>]
-[30Dec2020 04:57:31.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
-[30Dec2020 04:57:31.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards <action> <reward> <option>
-[30Dec2020 04:57:31.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards-grant <reward>
-[30Dec2020 04:57:31.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[30Dec2020 04:57:31.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
-[30Dec2020 04:57:31.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tmdev <item> <module>
-[30Dec2020 04:57:31.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
-[30Dec2020 04:57:31.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
-[30Dec2020 04:57:31.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
-[30Dec2020 04:57:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
-[30Dec2020 04:57:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
-[30Dec2020 04:57:31.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
-[30Dec2020 04:57:31.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
-[30Dec2020 04:57:46.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[30Dec2020 04:57:46.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Dec2020 04:57:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Dec2020 04:57:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Dec2020 04:57:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Dec2020 04:57:46.313] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Dec2020 04:57:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Dec2020 04:57:46.314] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Dec2020 04:57:46.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Dec2020 04:57:46.315] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Dec2020 04:57:46.400] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Dec2020 04:57:46.445] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Dec2020 04:57:46.446] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Dec2020 04:57:46.457] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[31Dec2020 00:02:45.262] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.47058960716850606
+[31Dec2020 00:02:45.295] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4941108541910353
+[31Dec2020 00:02:45.659] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.30028431645655473
+[31Dec2020 00:02:45.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3609815640742795
+[31Dec2020 00:02:45.853] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.42209872335178034
+[31Dec2020 00:02:45.950] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4864587489802261
+[31Dec2020 00:12:34.467] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.28562704210287393
+[31Dec2020 00:12:34.519] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5176336595243356
+[31Dec2020 00:12:34.568] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5398869067455507
+[31Dec2020 00:12:34.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5517941756517075
+[31Dec2020 00:12:34.664] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5581655178381197
+[31Dec2020 00:12:34.718] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5615746960112347
+[31Dec2020 00:12:34.767] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.56339887927993
+[31Dec2020 00:12:34.818] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5643749633767356
+[31Dec2020 00:12:34.868] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5648972465158977
+[31Dec2020 00:12:34.918] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5651767098105438
+[31Dec2020 00:12:34.968] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5653262450475722
+[31Dec2020 00:12:35.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5759152568889476
+[31Dec2020 00:12:35.063] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5895787069597418
+[31Dec2020 00:12:35.117] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5530707982222793
+[31Dec2020 00:12:35.167] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5309710939005754
+[31Dec2020 00:12:35.216] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.519145982738678
+[31Dec2020 00:12:35.264] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5145299273792716
+[31Dec2020 00:12:35.316] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5273929775214583
+[31Dec2020 00:12:35.365] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5569320519488201
+[31Dec2020 00:12:35.415] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5789234804424268
+[31Dec2020 00:12:35.464] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.582109548663766
+[31Dec2020 00:12:35.514] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5836298700240832
+[31Dec2020 00:12:35.564] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5851769400977673
+[31Dec2020 00:12:35.617] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5886457591280987
+[31Dec2020 00:12:35.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5932314343190228
+[31Dec2020 00:12:35.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3174263127452832
+[31Dec2020 00:13:09.766] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39473312940481264
+[31Dec2020 00:14:37.367] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.2596255509581624
+[31Dec2020 00:18:12.720] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.46296294007788674
+[31Dec2020 00:32:29.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas has made the advancement [Captured]
+[31Dec2020 00:33:10.771] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chicken from f44335bb-085d-4453-a09c-f426b0df15a4 to ec4a0cad-adb1-4dfb-931c-059277db6fe7
+[31Dec2020 00:33:10.771] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chicken from 9dd0412e-2573-4baf-bbb4-e91647805e85 to 64c6c7dc-6c79-486a-a293-f70c01337edd
+[31Dec2020 00:33:10.772] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chicken from 946dc72e-b46f-470b-96df-306e0770047c to 42f59556-9063-48db-b3f1-04ee6c6b8c54
+[31Dec2020 00:33:10.772] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:chicken from 9fc57c1f-5be2-4bcc-bbb9-98c51235ef02 to 072b6f73-aa5c-471b-a286-ae3e7087d577
+[31Dec2020 00:33:10.914] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:sheep from c10faf53-d831-4ed2-9780-8121ac59d661 to f76b3254-3706-406b-b264-094a46981dda
+[31Dec2020 00:33:10.914] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:sheep from ebef5109-f8e9-4e99-9ed6-24523e4c37bc to 81e98468-e572-4fb7-a103-49c7d82824d2
+[31Dec2020 00:33:11.012] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombie_villager from c29bc14d-e665-4667-b7d0-98b8d8fe48ae to 0dc84339-175c-450d-ade9-053dc6b19c00
+[31Dec2020 00:37:04.665] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3148916208190258
+[31Dec2020 00:38:30.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3078772735225357
+[31Dec2020 00:39:47.017] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.31882253766980284
+[31Dec2020 00:39:47.078] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.25386026105593373
+[31Dec2020 00:39:47.218] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2922986834680614
+[31Dec2020 00:40:33.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.428136844393066
+[31Dec2020 00:41:19.914] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.27810785912834035
+[31Dec2020 00:42:07.670] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3710997438117829
+[31Dec2020 00:43:13.729] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2967548115077534
+[31Dec2020 00:47:42.093] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2632947338449867
+[31Dec2020 00:47:42.296] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.3971024131528793
+[31Dec2020 00:47:54.636] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2280, y=72, z=1416} BlockPos{x=-2281, y=72, z=1418}
+[31Dec2020 00:47:54.641] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2280, y=72, z=1416} BlockPos{x=-2281, y=72, z=1418}
+[31Dec2020 00:47:54.681] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2281, y=72, z=1416} BlockPos{x=-2281, y=72, z=1418}
+[31Dec2020 00:47:54.733] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2282, y=72, z=1416} BlockPos{x=-2281, y=72, z=1418}
+[31Dec2020 00:51:33.913] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.2739851505580191
+[31Dec2020 00:53:58.607] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.27437444886072626
+[31Dec2020 00:53:58.641] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.7767359793178493
+[31Dec2020 00:53:58.686] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5372811198334457
+[31Dec2020 00:53:58.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5557500843022546
+[31Dec2020 00:53:58.787] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5659951811209333
+[31Dec2020 00:53:58.843] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5715746952249521
+[31Dec2020 00:53:58.890] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.30245066478346416
+[31Dec2020 00:54:02.399] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.26010246799160086
+[31Dec2020 00:54:02.438] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.6766246384204351
+[31Dec2020 00:54:31.183] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.25130964907384623
+[31Dec2020 00:57:28.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir has made the advancement [Sky of Beginning]
+[31Dec2020 01:09:19.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[31Dec2020 01:09:47.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
+[31Dec2020 01:12:46.828] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3446632315487932
+[31Dec2020 01:12:46.870] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5828889374485016
+[31Dec2020 01:12:46.916] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5775726862782449
+[31Dec2020 01:12:46.982] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5540940591650951
+[31Dec2020 01:12:47.016] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5253046207642456
+[31Dec2020 01:12:47.079] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4996275311845011
+[31Dec2020 01:12:47.119] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.472308690018167
+[31Dec2020 01:12:47.169] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.38936393072651754
+[31Dec2020 01:12:47.219] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.25429837920762566
+[31Dec2020 01:14:27.587] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.2902137625301293
+[31Dec2020 01:14:27.635] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5203974014066262
+[31Dec2020 01:14:27.689] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5400390344111656
+[31Dec2020 01:14:27.736] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5505488806199992
+[31Dec2020 01:14:27.792] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.555913316095598
+[31Dec2020 01:14:27.833] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.5583329707953908
+[31Dec2020 01:14:27.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.29875284071408714
+[31Dec2020 01:15:03.871] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.26783481140728327
+[31Dec2020 01:15:03.921] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5032445141187054
+[31Dec2020 01:15:03.970] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5219198178733677
+[31Dec2020 01:15:04.016] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5319126005670114
+[31Dec2020 01:15:04.066] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5372595393519077
+[31Dec2020 01:15:04.116] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5398970160963472
+[31Dec2020 01:15:04.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5410829189081596
+[31Dec2020 01:15:04.227] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5417174718586466
+[31Dec2020 01:15:04.263] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5420570084907013
+[31Dec2020 01:15:04.327] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5422386877730787
+[31Dec2020 01:15:04.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5423359007345425
+[31Dec2020 01:15:04.416] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5423879174518333
+[31Dec2020 01:15:04.466] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424157505603944
+[31Dec2020 01:15:04.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424306435020299
+[31Dec2020 01:15:04.562] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424386124177545
+[31Dec2020 01:15:04.613] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424428764258664
+[31Dec2020 01:15:04.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424451580115601
+[31Dec2020 01:15:04.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5424463788426692
+[31Dec2020 01:15:04.767] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.542447032084965
+[31Dec2020 01:15:04.813] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5422117743123636
+[31Dec2020 01:15:04.867] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5401858536397413
+[31Dec2020 01:15:04.918] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5324025314844221
+[31Dec2020 01:15:04.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5012284537888263
+[31Dec2020 01:15:05.019] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.41249779932331876
+[31Dec2020 01:15:05.067] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.2963953119075215
+[31Dec2020 01:15:35.370] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.35379359567769886
+[31Dec2020 01:15:35.413] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5960525795520468
+[31Dec2020 01:15:35.469] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6001122821194044
+[31Dec2020 01:15:35.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6024596354721204
+[31Dec2020 01:15:35.568] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6037651349410578
+[31Dec2020 01:15:35.627] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6044777443873006
+[31Dec2020 01:15:35.668] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6048630577252186
+[31Dec2020 01:15:35.728] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6050660465534023
+[31Dec2020 01:15:35.766] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6051780838971598
+[31Dec2020 01:15:35.822] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.605239012007926
+[31Dec2020 01:15:35.866] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6052718936739385
+[31Dec2020 01:15:35.927] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6052895682213109
+[31Dec2020 01:15:35.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6052990484857189
+[31Dec2020 01:15:36.018] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.605285064118709
+[31Dec2020 01:15:36.063] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6051251623915048
+[31Dec2020 01:15:36.120] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6036644494360526
+[31Dec2020 01:15:36.164] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.32300837638285884
+[31Dec2020 01:30:02.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3604604719139388
+[31Dec2020 01:33:03.519] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.25936451429629415
+[31Dec2020 01:34:27.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.32199872336718727
+[31Dec2020 01:34:27.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5234926463176635
+[31Dec2020 01:34:27.714] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5081266393478927
+[31Dec2020 01:34:27.765] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4904869287170186
+[31Dec2020 01:34:27.813] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4709868528216248
+[31Dec2020 01:34:27.866] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.45037955076873004
+[31Dec2020 01:34:27.914] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4351182355549099
+[31Dec2020 01:34:27.967] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.42589479519665474
+[31Dec2020 01:34:28.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4193439135906374
+[31Dec2020 01:34:28.066] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4136528502438068
+[31Dec2020 01:34:28.115] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4034110851616788
+[31Dec2020 01:34:28.169] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.37450919585853626
+[31Dec2020 01:34:28.216] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3306197984893515
+[31Dec2020 01:34:28.263] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.267205947623097
+[31Dec2020 01:34:28.316] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.2759021479796502
+[31Dec2020 01:34:28.362] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4245011205252922
+[31Dec2020 01:34:28.419] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5036087118764954
+[31Dec2020 01:34:28.467] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.541152929893542
+[31Dec2020 01:34:28.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.545810618768428
+[31Dec2020 01:34:28.563] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5228191720661926
+[31Dec2020 01:34:28.615] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.48998173251402477
+[31Dec2020 01:34:28.666] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.45865902723880936
+[31Dec2020 01:34:28.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4294194343169693
+[31Dec2020 01:34:28.766] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.41042394621536005
+[31Dec2020 01:34:28.813] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4002598392617074
+[31Dec2020 01:34:28.863] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3959359598325136
+[31Dec2020 01:34:28.918] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39530575792241507
+[31Dec2020 01:34:28.963] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3960913325063302
+[31Dec2020 01:34:29.015] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39706097529597173
+[31Dec2020 01:34:29.041] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of Bukjir) moved wrongly! 0.4594397311693683
+[31Dec2020 01:34:29.066] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39757981181992363
+[31Dec2020 01:34:29.119] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3978574308989664
+[31Dec2020 01:34:29.163] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3980059793334476
+[31Dec2020 01:34:29.215] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3980854646388252
+[31Dec2020 01:34:29.267] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3981279956410617
+[31Dec2020 01:34:29.319] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39815075313254056
+[31Dec2020 01:34:29.371] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.39816293021249294
+[31Dec2020 01:34:29.417] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5969732581902463
+[31Dec2020 01:34:29.470] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3379405283831147
+[31Dec2020 01:34:29.528] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4864957723784755
+[31Dec2020 01:34:29.569] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4454345886010742
+[31Dec2020 01:34:29.629] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.42346356783355077
+[31Dec2020 01:34:29.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.41170731267584415
+[31Dec2020 01:34:29.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4054167749354747
+[31Dec2020 01:34:29.763] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4020508336102466
+[31Dec2020 01:34:29.820] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.40024978551673485
+[31Dec2020 01:34:29.878] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3992860805910823
+[31Dec2020 01:34:29.916] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.402080145427135
+[31Dec2020 01:34:29.969] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.41989104194590254
+[31Dec2020 01:34:30.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4587579637041017
+[31Dec2020 01:34:30.071] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5055329412539322
+[31Dec2020 01:34:30.115] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5456505500624189
+[31Dec2020 01:34:30.165] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5723520092778926
+[31Dec2020 01:34:30.214] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5875296731242088
+[31Dec2020 01:34:30.267] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5896044054370577
+[31Dec2020 01:34:30.317] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5821471093413493
+[31Dec2020 01:34:30.370] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5106116192855552
+[31Dec2020 01:34:30.421] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4723344048202307
+[31Dec2020 01:34:30.464] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.46343962826676943
+[31Dec2020 01:34:30.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4849215999993248
+[31Dec2020 01:34:30.563] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.2697020854161565
+[31Dec2020 01:34:30.963] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5520763804611306
+[31Dec2020 01:34:35.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/170637, l='ServerLevel[world]', x=-1037.09, y=63.00, z=3544.41]
+[31Dec2020 01:35:52.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir was blown up by Creeper
+[31Dec2020 01:36:02.247] [Netty Server IO #27/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.ldtteam.structurize.commands.arguments.MultipleStringArgument@68854180 (class com.ldtteam.structurize.commands.arguments.MultipleStringArgument) - will not be sent to client!
+[31Dec2020 01:41:03.723] [Server thread/INFO] [STDOUT/]: [com.mrcrayfish.goblintraders.world.spawner.GoblinTraderSpawner:findGround:165]: minecraft:air
+[31Dec2020 01:42:27.468] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.25518029554467603
+[31Dec2020 01:45:56.630] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.36902457919478593
+[31Dec2020 01:45:56.669] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6068699177720873
+[31Dec2020 01:45:56.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6024977818807145
+[31Dec2020 01:45:56.766] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6001583391362431
+[31Dec2020 01:45:56.814] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5989065499671256
+[31Dec2020 01:45:56.869] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5982367425407062
+[31Dec2020 01:45:56.917] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5978783419413674
+[31Dec2020 01:45:56.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5976865689263775
+[31Dec2020 01:45:57.017] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5975839550096111
+[31Dec2020 01:45:57.064] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5987128551459762
+[31Dec2020 01:45:57.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6017115603500258
+[31Dec2020 01:45:57.189] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5995135305366546
+[31Dec2020 01:45:57.232] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5945306882543946
+[31Dec2020 01:45:57.280] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5920325439663827
+[31Dec2020 01:45:57.319] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5935688000269579
+[31Dec2020 01:45:57.363] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5977479977299538
+[31Dec2020 01:45:57.414] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6010301277861743
+[31Dec2020 01:45:57.463] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5951469400888243
+[31Dec2020 01:45:57.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5753666744030284
+[31Dec2020 01:45:57.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5597464794630866
+[31Dec2020 01:45:57.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.553968094821613
+[31Dec2020 01:45:57.664] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5620442948847142
+[31Dec2020 01:45:57.714] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5783902695888514
+[31Dec2020 01:45:57.765] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.590535653219888
+[31Dec2020 01:45:57.817] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5970721305268967
+[31Dec2020 01:45:57.863] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6004534758577051
+[31Dec2020 01:45:57.916] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6021292286802975
+[31Dec2020 01:45:57.963] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6026475199593335
+[31Dec2020 01:45:58.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6016142795321571
+[31Dec2020 01:45:58.063] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5967811801724849
+[31Dec2020 01:45:58.120] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5875159549934779
+[31Dec2020 01:45:58.168] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5792561251175243
+[31Dec2020 01:45:58.218] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.57382885868671
+[31Dec2020 01:45:58.265] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5709248366275972
+[31Dec2020 01:45:58.313] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5693709523237374
+[31Dec2020 01:45:58.369] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.8519250150268647
+[31Dec2020 01:45:58.466] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4564208400275902
+[31Dec2020 01:45:58.518] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6706625302121552
+[31Dec2020 01:45:58.563] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.6222192308924832
+[31Dec2020 01:45:58.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5962981872817181
+[31Dec2020 01:45:58.669] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5824283536554447
+[31Dec2020 01:45:58.713] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5750068822166838
+[31Dec2020 01:45:58.763] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5730602188013165
+[31Dec2020 01:45:58.831] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.577569761872212
+[31Dec2020 01:45:58.895] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.5884675606026804
+[31Dec2020 01:45:58.936] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.31487725890110596
+[31Dec2020 01:46:05.264] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3650621329356909
+[31Dec2020 01:46:20.379] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[31Dec2020 01:46:20.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[31Dec2020 01:46:20.455] [Thread-566/INFO] [FTB Utilities Backups/]: Backing up 217 files...
+[31Dec2020 01:46:20.457] [Thread-566/INFO] [FTB Utilities Backups/]: Compressing 217 files...
+[31Dec2020 01:46:32.022] [Thread-566/INFO] [FTB Utilities Backups/]: Done compressing in 00:11 seconds (259.6MB)!
+[31Dec2020 01:46:32.022] [Thread-566/INFO] [FTB Utilities Backups/]: Created C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\backups\2020-12-31-01-46-20.zip from C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\world
+[31Dec2020 01:46:32.024] [Thread-566/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:11! (259.6MB | 1.3GB)
+[31Dec2020 01:46:41.916] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.4233085840822923
+[31Dec2020 01:46:53.963] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.25840182209094564
+[31Dec2020 01:47:22.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3447088229718247
+[31Dec2020 01:51:38.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3575594862938374
+[31Dec2020 02:05:16.179] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pasadinhas lost connection: Disconnected
+[31Dec2020 02:05:16.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas left the game
+[31Dec2020 02:06:26.577] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Bukjir lost connection: Disconnected
+[31Dec2020 02:06:26.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bukjir left the game
+[31Dec2020 02:07:28.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[31Dec2020 02:07:29.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[31Dec2020 02:07:33.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[31Dec2020 02:07:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2020 02:07:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2020 02:07:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2020 02:07:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2020 02:07:33.211] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2020 02:07:33.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2020 02:07:33.220] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2020 02:07:33.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2020 02:07:33.222] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2020 02:07:33.298] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2020 02:07:33.368] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2020 02:07:33.383] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2020 02:07:33.391] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
