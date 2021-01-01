@@ -911,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/amethyst_leggings": {
     "criteria": {
       "has_gems_amethyst": "2020-12-30 03:03:03 +0000"
@@ -1421,6 +1427,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
+    "criteria": {
+      "has_gold_dust": "2021-01-01 00:42:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
@@ -1478,6 +1490,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/misc/iron_ingot_from_blasting_dust": {
+    "criteria": {
+      "has_dusts_iron": "2021-01-01 00:06:05 +0000"
     },
     "done": true
   },
@@ -1707,6 +1725,12 @@
   "botania:recipes/botania/petal_lime_double": {
     "criteria": {
       "has_alt_item": "2020-12-30 03:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -2358,6 +2382,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/gold_ingot_from_smelting_dust": {
+    "criteria": {
+      "has_dusts_gold": "2021-01-01 00:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-30 00:51:48 +0000"
@@ -2415,6 +2445,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -3144,6 +3180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2020-12-30 01:56:22 +0000"
@@ -3300,6 +3342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "psi:recipes/psi/assembler": {
     "criteria": {
       "has_iron": "2020-12-29 23:01:26 +0000"
@@ -3405,6 +3453,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -3651,6 +3705,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-12-31 14:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -3948,6 +4008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cactus_knife": {
     "criteria": {
       "has_cactus": "2020-12-30 03:58:14 +0000"
@@ -4059,6 +4125,12 @@
   "botania:recipes/botania/pestle_and_mortar": {
     "criteria": {
       "has_item": "2020-12-29 22:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -4563,6 +4635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-12-30 16:41:22 +0000"
@@ -4755,6 +4833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "aiotbotania:recipes/aiotbotania/livingrock_shears": {
     "criteria": {
       "has_material": "2020-12-30 12:16:37 +0000"
@@ -4920,6 +5004,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-12-30 13:33:40 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/misc/iron_ingot_from_smelting_dust": {
+    "criteria": {
+      "has_dusts_iron": "2021-01-01 00:06:05 +0000"
     },
     "done": true
   },
@@ -5289,6 +5379,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/gold_ingot_from_blasting_dust": {
+    "criteria": {
+      "has_dusts_gold": "2021-01-01 00:42:00 +0000"
+    },
+    "done": true
+  },
   "transport:recipes/transport/modular_boat_from_oak": {
     "criteria": {
       "has_item": "2020-12-29 23:14:42 +0000"
@@ -5461,6 +5557,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2020-12-30 12:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
@@ -6706,6 +6808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2020-12-30 13:08:24 +0000"
@@ -7234,6 +7342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 23:01:26 +0000"
@@ -7411,6 +7525,12 @@
   "botania:recipes/botania/petal_blue_double": {
     "criteria": {
       "has_item": "2020-12-30 15:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
     },
     "done": true
   },
