@@ -1,27 +1,14 @@
-[01Jan2021 00:43:37.451] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[01Jan2021 00:43:37.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[01Jan2021 00:43:37.519] [Thread-152/INFO] [FTB Utilities Backups/]: Deleting old backup: 2020-12-30-04-19-46.zip
-[01Jan2021 00:43:37.521] [Thread-152/INFO] [FTB Utilities Backups/]: Backing up 225 files...
-[01Jan2021 00:43:37.522] [Thread-152/INFO] [FTB Utilities Backups/]: Compressing 225 files...
-[01Jan2021 00:43:50.557] [Thread-152/INFO] [FTB Utilities Backups/]: Done compressing in 00:13 seconds (292.8MB)!
-[01Jan2021 00:43:50.558] [Thread-152/INFO] [FTB Utilities Backups/]: Created C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\backups\2021-01-01-00-43-37.zip from C:\Users\migue\Downloads\Valhelsia_SERVER-3.1.2\world
-[01Jan2021 00:43:50.562] [Thread-152/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:13! (292.8MB | 2.5GB)
-[01Jan2021 01:58:28.055] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Horse (vehicle of pasadinhas) moved wrongly! 0.3388984723234785
-[01Jan2021 02:17:43.203] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pasadinhas lost connection: Disconnected
-[01Jan2021 02:17:43.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pasadinhas left the game
-[01Jan2021 02:18:11.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
-[01Jan2021 02:18:11.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
-[01Jan2021 02:18:12.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[01Jan2021 02:18:13.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Jan2021 02:18:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Jan2021 02:18:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Jan2021 02:18:13.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Jan2021 02:18:13.101] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Jan2021 02:18:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Jan2021 02:18:13.104] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Jan2021 02:18:13.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Jan2021 02:18:13.105] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Jan2021 02:18:13.173] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Jan2021 02:18:13.183] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Jan2021 02:18:13.183] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Jan2021 02:18:13.193] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[02Jan2021 00:03:50.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[02Jan2021 00:03:50.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2021 00:03:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2021 00:03:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2021 00:03:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2021 00:03:50.750] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2021 00:03:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2021 00:03:50.756] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2021 00:03:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2021 00:03:50.757] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2021 00:03:50.829] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2021 00:03:50.843] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2021 00:03:50.851] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2021 00:03:50.854] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded

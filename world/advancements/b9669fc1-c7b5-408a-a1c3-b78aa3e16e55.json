@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_pickaxe": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-12-30 20:05:57 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-12-31 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_dolomite": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cracked_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_torch": "2020-12-29 22:50:45 +0000"
@@ -236,6 +254,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2020-12-31 13:59:25 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_leggings": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -278,6 +302,12 @@
   "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
     "criteria": {
       "has_vine": "2020-12-30 16:42:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/chiseled_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
     },
     "done": true
   },
@@ -446,6 +476,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_sword": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -719,6 +755,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2020-12-29 22:50:45 +0000"
@@ -989,6 +1031,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_ingot_from_smelting_dust": {
+    "criteria": {
+      "has_dusts_tin": "2021-01-01 19:08:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2020-12-30 01:56:22 +0000"
@@ -1112,6 +1160,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:36:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/chiseled_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
     },
     "done": true
   },
@@ -1361,6 +1415,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
   "extlights:recipes/blaze_tube_craft_alt": {
     "criteria": {
       "has_ingredient": "2020-12-30 16:45:32 +0000"
@@ -1436,6 +1496,12 @@
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -1520,6 +1586,18 @@
   "aiotbotania:recipes/aiotbotania/livingrock_axe": {
     "criteria": {
       "has_material": "2020-12-30 12:16:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-01-01 12:43:01 +0000"
     },
     "done": true
   },
@@ -1656,6 +1734,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mossy_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-12-30 14:36:36 +0000"
@@ -1701,6 +1785,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2020-12-30 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/palettes/dark_scoria": {
+    "criteria": {
+      "has_item": "2021-01-01 21:36:08 +0000"
     },
     "done": true
   },
@@ -1782,6 +1872,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingrock_bricks_slab": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
@@ -1827,6 +1923,12 @@
   "botania:recipes/botania/manasteel_shovel": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-01 17:59:09 +0000"
     },
     "done": true
   },
@@ -1980,6 +2082,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-29 22:44:09 +0000"
@@ -2052,6 +2160,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_boots": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
   "extlights:recipes/pig_fat_smelt": {
     "criteria": {
       "has_ingredient": "2020-12-30 00:04:39 +0000"
@@ -2073,6 +2187,12 @@
   "botania:recipes/botania/scorched_seeds": {
     "criteria": {
       "has_item": "2020-12-31 13:06:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -2364,6 +2484,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite_cobblestone_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2020-12-30 13:08:24 +0000"
@@ -2409,6 +2535,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-29 22:49:44 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_tin_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -2595,6 +2727,12 @@
   "pitg:recipes/pitg/cyan_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_chestplate": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -3090,6 +3228,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_limestone_bricks_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rockcutter": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
@@ -3231,6 +3375,12 @@
   "botania:recipes/botania/petal_cyan": {
     "criteria": {
       "has_item": "2020-12-30 03:41:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/chiseled_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
     },
     "done": true
   },
@@ -3396,6 +3546,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2021-01-01 15:47:58 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/amethyst_pickaxe": {
     "criteria": {
       "has_gems_amethyst": "2020-12-30 03:03:03 +0000"
@@ -3504,6 +3660,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_dolomite_bricks_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-12-30 16:41:22 +0000"
@@ -3543,6 +3705,12 @@
   "botania:recipes/botania/black_pavement": {
     "criteria": {
       "has_item": "2020-12-30 12:16:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2021-01-01 21:45:12 +0000"
     },
     "done": true
   },
@@ -3654,6 +3822,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dolomite_bricks_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -3714,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-01 17:59:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_brown": {
     "criteria": {
       "has_item": "2020-12-30 13:41:14 +0000"
@@ -3753,6 +3933,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-12-31 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_squid_from_smoker": {
+    "criteria": {
+      "has_raw_squid": "2021-01-01 12:43:01 +0000"
     },
     "done": true
   },
@@ -3948,9 +4134,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_brown": {
     "criteria": {
       "has_item": "2020-12-30 03:43:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "campfire": "2021-01-01 21:44:49 +0000"
     },
     "done": true
   },
@@ -4074,6 +4272,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-12-30 12:38:50 +0000"
@@ -4194,6 +4398,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_axe": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2020-12-31 00:19:23 +0000"
@@ -4215,6 +4425,12 @@
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2020-12-31 01:37:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks_wall": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
     },
     "done": true
   },
@@ -4364,6 +4580,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/tin_knife_from_ingots_tin": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -4839,6 +5061,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mossy_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "aiotbotania:recipes/aiotbotania/livingrock_shears": {
     "criteria": {
       "has_material": "2020-12-30 12:16:37 +0000"
@@ -4890,6 +5118,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:36:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-01-01 14:55:34 +0000"
     },
     "done": true
   },
@@ -5247,6 +5481,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/green_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2020-12-31 13:46:23 +0000"
@@ -5316,6 +5556,12 @@
   "botania:recipes/botania/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2020-12-30 04:05:23 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_tin_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_tin": "2021-01-01 19:10:01 +0000"
     },
     "done": true
   },
@@ -5536,6 +5782,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/chiseled_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-12-29 23:13:15 +0000"
@@ -5566,6 +5818,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_helmet": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/white_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -5581,6 +5839,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2020-12-31 02:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-01 17:59:09 +0000"
     },
     "done": true
   },
@@ -5710,6 +5974,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2020-12-30 02:36:03 +0000"
@@ -5743,6 +6013,12 @@
   "pitg:recipes/pitg/orange_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
     },
     "done": true
   },
@@ -5812,6 +6088,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_ingot_from_blasting_dust": {
+    "criteria": {
+      "has_dusts_tin": "2021-01-01 19:08:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:44:50 +0000"
@@ -5839,6 +6121,12 @@
   "botania:recipes/botania/mutated_seeds": {
     "criteria": {
       "has_item": "2020-12-31 13:06:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_limestone": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -5881,6 +6169,12 @@
   "minecraft:recipes/mysticalworld/silk_thread_from_cocoon_with_spindle": {
     "criteria": {
       "has_cocoon": "2020-12-29 23:04:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
     },
     "done": true
   },
@@ -5977,6 +6271,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-30 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-01-01 16:05:12 +0000"
     },
     "done": true
   },
@@ -6124,6 +6424,24 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_pillar_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/tin_shovel": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2020-12-30 01:27:43 +0000"
@@ -6220,6 +6538,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/overgrown_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
@@ -6283,6 +6607,12 @@
   "botania:recipes/botania/prism": {
     "criteria": {
       "has_item": "2020-12-31 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dolomite_pillar_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
     },
     "done": true
   },
@@ -6520,6 +6850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-01-01 16:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-12-30 00:51:48 +0000"
@@ -6529,6 +6865,12 @@
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2020-12-29 22:44:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mossy_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
     },
     "done": true
   },
@@ -6577,6 +6919,12 @@
   "botania:recipes/botania/horn_snow": {
     "criteria": {
       "has_item": "2020-12-31 13:08:02 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_squid_from_campfire": {
+    "criteria": {
+      "has_raw_squid": "2021-01-01 12:43:01 +0000"
     },
     "done": true
   },
@@ -6703,6 +7051,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-12-30 00:59:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -6838,6 +7198,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_cobblestone_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
   "botania:main/rune_pickup": {
     "criteria": {
       "rune": "2020-12-30 16:31:44 +0000"
@@ -6952,6 +7318,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mossy_livingrock_bricks": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
@@ -7003,6 +7375,12 @@
   "pitg:recipes/pitg/black_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-01 17:59:09 +0000"
     },
     "done": true
   },
@@ -7066,6 +7444,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/tin_hoe": {
+    "criteria": {
+      "has_ingots_tin": "2021-01-01 19:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-12-30 16:45:32 +0000"
@@ -7099,6 +7483,12 @@
   "mysticalworld:recipes/mysticalworld/amethyst_from_blasting": {
     "criteria": {
       "has_ores_amethyst": "2020-12-31 16:36:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -7174,6 +7564,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/livingrock_bricks_stairs": {
+    "criteria": {
+      "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/copper_casing": {
     "criteria": {
       "has_item": "2020-12-30 01:56:22 +0000"
@@ -7225,6 +7621,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:36:11 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_squid": {
+    "criteria": {
+      "has_raw_squid": "2021-01-01 12:43:01 +0000"
     },
     "done": true
   },
@@ -7390,9 +7792,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_dolomite_from_dolomite_stonecutting": {
+    "criteria": {
+      "has_dolomite": "2021-01-01 14:55:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/crafting_halo": {
     "criteria": {
       "has_item": "2020-12-30 16:18:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_cobblestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_limestone_from_limestone_stonecutting": {
+    "criteria": {
+      "has_limestone": "2021-01-01 17:14:12 +0000"
     },
     "done": true
   },
@@ -7567,6 +7987,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-01-01 21:36:08 +0000"
     },
     "done": true
   },
