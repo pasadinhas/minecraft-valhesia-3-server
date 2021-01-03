@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
     "criteria": {
       "has_vine": "2020-12-30 16:42:26 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2021-01-02 12:08:22 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/silver_axe": {
     "criteria": {
       "has_ingots_silver": "2020-12-30 02:36:03 +0000"
@@ -440,6 +458,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-29 22:49:44 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_powered_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -593,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-12-30 03:27:53 +0000"
@@ -608,6 +638,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2020-12-30 12:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -650,6 +686,12 @@
   "botania:recipes/botania/slab_recombine/livingrock": {
     "criteria": {
       "has_item": "2020-12-30 12:16:38 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -779,6 +821,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/transport_wye_switch_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_block": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
@@ -863,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -884,6 +938,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2020-12-30 03:55:31 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:aubergine": {
+    "criteria": {
+      "book": "2021-01-03 01:16:11 +0000"
     },
     "done": true
   },
@@ -959,6 +1019,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/antler_hat": {
+    "criteria": {
+      "has_antlers": "2021-01-02 15:00:36 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/amethyst_leggings": {
     "criteria": {
       "has_gems_amethyst": "2020-12-30 03:03:03 +0000"
@@ -992,6 +1058,12 @@
   "mysticalworld:recipes/mysticalworld/amethyst_helmet": {
     "criteria": {
       "has_gems_amethyst": "2020-12-30 03:03:03 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/diamond_crossing_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -1046,6 +1118,12 @@
   "botania:main/crafting_halo_craft": {
     "criteria": {
       "pool": "2020-12-31 14:57:29 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_scaffolding_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -1367,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-01-02 19:12:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar": {
     "criteria": {
       "has_ingredient": "2020-12-29 22:49:44 +0000"
@@ -1394,6 +1478,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_steel": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -1475,6 +1565,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/aubergine_seeds": {
+    "criteria": {
+      "has_aubergine": "2021-01-03 01:16:11 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 23:01:26 +0000"
@@ -1493,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
@@ -1502,6 +1604,12 @@
   "create:recipes/create.palettes/limestone_pillar": {
     "criteria": {
       "has_ingredient": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-01-02 14:55:47 +0000"
     },
     "done": true
   },
@@ -1520,6 +1628,12 @@
   "mysticalworld:recipes/mysticalworld/copper_axe": {
     "criteria": {
       "has_ingots_copper": "2020-12-30 01:56:22 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_shroom_stem_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 12:46:16 +0000"
     },
     "done": true
   },
@@ -1568,6 +1682,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2020-12-30 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -1711,8 +1831,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-01-02 12:56:51 +0000",
       "minecraft:nether_wastes": "2020-12-30 16:43:51 +0000",
-      "minecraft:warped_forest": "2020-12-30 13:06:32 +0000"
+      "minecraft:warped_forest": "2020-12-30 13:06:32 +0000",
+      "minecraft:basalt_deltas": "2021-01-02 12:57:49 +0000"
     },
     "done": false
   },
@@ -1737,6 +1859,12 @@
   "create:recipes/create.palettes/mossy_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-02 19:02:50 +0000"
     },
     "done": true
   },
@@ -1830,6 +1958,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/wye_switch_rail": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2020-12-30 13:33:40 +0000"
@@ -1896,6 +2030,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "tomato": "2021-01-02 23:57:47 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/amethyst_axe": {
     "criteria": {
       "has_gems_amethyst": "2020-12-30 03:03:03 +0000"
@@ -1932,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-12-30 02:20:18 +0000"
@@ -1947,6 +2093,12 @@
   "aiotbotania:recipes/aiotbotania/livingwood_pickaxe": {
     "criteria": {
       "has_material": "2020-12-30 12:09:51 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_shroom_stem_hyphae_craft_alt": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 12:46:16 +0000"
     },
     "done": true
   },
@@ -1986,6 +2138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
@@ -2010,9 +2168,27 @@
     },
     "done": true
   },
+  "transport:recipes/transport/transport_elevator_switch_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 22:45:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -2073,6 +2249,12 @@
   "botania:recipes/botania/red_shiny_flower": {
     "criteria": {
       "has_item": "2020-12-30 03:42:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/incense_stick": {
+    "criteria": {
+      "has_item": "2021-01-02 19:31:51 +0000"
     },
     "done": true
   },
@@ -2154,6 +2336,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/transport_diamond_crossing_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2020-12-30 02:40:48 +0000"
@@ -2214,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2020-12-30 12:25:32 +0000"
@@ -2259,6 +2453,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-12-30 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -2334,9 +2534,21 @@
     },
     "done": true
   },
+  "transport:recipes/transport/holding_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/square_pennant": {
     "criteria": {
       "has_string": "2020-12-30 01:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
     },
     "done": true
   },
@@ -2412,6 +2624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
@@ -2442,6 +2660,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2021-01-02 23:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-12-29 22:43:42 +0000"
@@ -2469,6 +2693,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
     },
     "done": true
   },
@@ -2592,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/green_shiny_flower": {
     "criteria": {
       "has_item": "2020-12-30 04:18:38 +0000"
@@ -2670,6 +2906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2020-12-30 01:27:43 +0000"
@@ -2715,6 +2957,12 @@
   "mysticalworld:recipes/mysticalworld/cactus_shovel": {
     "criteria": {
       "has_cactus": "2020-12-30 03:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -2769,6 +3017,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-12-30 19:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -2934,6 +3188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/glass_pickaxe": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
@@ -2979,6 +3239,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-12-31 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
     },
     "done": true
   },
@@ -3045,6 +3311,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-12-30 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/rail_workers_bench": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -3210,6 +3482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2021-01-02 14:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-12-29 22:48:55 +0000"
@@ -3237,6 +3515,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rockcutter": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2021-01-02 17:05:46 +0000"
     },
     "done": true
   },
@@ -3342,6 +3626,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/spawner": {
+    "criteria": {
+      "spawner": "2021-01-02 12:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:36:11 +0000"
@@ -3363,6 +3653,12 @@
   "mysticalworld:recipes/mysticalworld/silver_leggings": {
     "criteria": {
       "has_ingots_silver": "2020-12-30 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/jungle_seat": {
+    "criteria": {
+      "has_plank": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -3504,6 +3800,12 @@
     },
     "done": true
   },
+  "transport:recipes/transportation/minecraft_detector_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_white": {
     "criteria": {
       "has_item": "2020-12-30 04:10:48 +0000"
@@ -3531,6 +3833,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-12-29 23:24:29 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_shroom_stem_craft_alt": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 12:46:16 +0000"
     },
     "done": true
   },
@@ -3666,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-12-30 16:41:22 +0000"
@@ -3741,6 +4055,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2020-12-30 01:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -3990,6 +4310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "transport:recipes/transport/transport_gold_rail_from_forge_ingots_gold": {
     "criteria": {
       "has_item": "2020-12-29 23:34:09 +0000"
@@ -4047,6 +4373,12 @@
   "botania:recipes/botania/mana_spreader": {
     "criteria": {
       "has_item": "2020-12-30 12:09:51 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_shroom_stem_hyphae_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 12:46:16 +0000"
     },
     "done": true
   },
@@ -4176,6 +4508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/cyan_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -4278,6 +4616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-12-30 12:38:50 +0000"
@@ -4308,6 +4652,12 @@
     },
     "done": true
   },
+  "industrialforegoing:recipes/industrialforegoing_core/plastic": {
+    "criteria": {
+      "has_plastic": "2021-01-03 00:29:23 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2020-12-30 03:31:45 +0000"
@@ -4335,6 +4685,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-12-31 23:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
     },
     "done": true
   },
@@ -4398,6 +4754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2021-01-02 19:02:49 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/tin_axe": {
     "criteria": {
       "has_ingots_tin": "2021-01-01 19:10:01 +0000"
@@ -4422,6 +4784,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-01-02 19:12:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2020-12-31 01:37:17 +0000"
@@ -4431,6 +4805,12 @@
   "botania:recipes/botania/livingrock_bricks_wall": {
     "criteria": {
       "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
     },
     "done": true
   },
@@ -4455,6 +4835,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-31 12:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -4494,6 +4880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/obedience_stick": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
@@ -4520,16 +4912,19 @@
       "coniferous_forest": "2020-12-31 01:33:03 +0000",
       "outback": "2020-12-30 14:34:57 +0000",
       "dryland": "2020-12-30 03:56:41 +0000",
+      "silkglade": "2021-01-02 19:15:00 +0000",
       "redwood_forest": "2020-12-30 00:46:54 +0000",
       "boreal_forest": "2020-12-31 15:43:43 +0000",
       "visceral_heap": "2020-12-30 12:39:14 +0000",
       "highland_moor": "2020-12-30 00:20:49 +0000",
       "seasonal_forest": "2020-12-31 15:42:15 +0000",
       "dead_forest": "2020-12-30 00:10:32 +0000",
+      "pasture": "2021-01-02 18:37:35 +0000",
       "meadow": "2020-12-29 23:55:14 +0000",
       "lavender_field": "2020-12-31 01:41:06 +0000",
       "pumpkin_patch": "2020-12-31 15:39:51 +0000",
       "grassland": "2020-12-31 01:10:22 +0000",
+      "prairie": "2021-01-02 18:37:25 +0000",
       "tundra": "2020-12-30 04:10:08 +0000",
       "undergrowth": "2020-12-30 12:38:46 +0000"
     },
@@ -4595,6 +4990,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-29 22:49:44 +0000"
@@ -4643,6 +5044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-12-29 22:44:05 +0000"
@@ -4673,6 +5080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-29 22:49:15 +0000"
@@ -4682,6 +5095,12 @@
   "botania:recipes/botania/tornado_rod": {
     "criteria": {
       "has_item": "2020-12-30 19:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -4714,7 +5133,10 @@
       "minecraft:pillager": "2020-12-30 00:24:09 +0000",
       "minecraft:blaze": "2020-12-30 16:45:31 +0000",
       "minecraft:skeleton": "2020-12-30 16:35:30 +0000",
+      "minecraft:elder_guardian": "2021-01-02 19:02:48 +0000",
+      "minecraft:ghast": "2021-01-02 19:31:49 +0000",
       "minecraft:hoglin": "2020-12-30 16:39:50 +0000",
+      "minecraft:guardian": "2021-01-02 19:04:11 +0000",
       "minecraft:magma_cube": "2020-12-30 17:08:18 +0000",
       "minecraft:spider": "2020-12-30 12:02:06 +0000",
       "minecraft:creeper": "2020-12-30 01:32:18 +0000",
@@ -4797,6 +5219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/spindle": {
     "criteria": {
       "has_slab": "2020-12-29 23:24:29 +0000"
@@ -4806,6 +5234,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -4935,6 +5369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "extlights:recipes/light_brazier_bowl_granite_craft": {
     "criteria": {
       "has_ingredient": "2020-12-29 22:50:29 +0000"
@@ -4992,6 +5432,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-12-30 16:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -5082,6 +5528,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -5193,9 +5645,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-01-03 00:38:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2020-12-31 00:19:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -5373,6 +5837,12 @@
     },
     "done": true
   },
+  "transport:recipes/transportation/minecraft_activator_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_black": {
     "criteria": {
       "has_item": "2020-12-30 03:41:27 +0000"
@@ -5400,6 +5870,12 @@
   "botania:recipes/botania/mining_ring": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-01-02 19:12:08 +0000"
     },
     "done": true
   },
@@ -5478,6 +5954,12 @@
   "mysticalworld:recipes/mysticalworld/silver_shovel": {
     "criteria": {
       "has_ingots_silver": "2020-12-30 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-02 19:02:50 +0000"
     },
     "done": true
   },
@@ -5565,6 +6047,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/transport_bumper_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-12-29 22:47:24 +0000"
@@ -5589,6 +6077,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-01-02 11:41:03 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/pink_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -5598,6 +6092,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:44:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -5643,8 +6143,10 @@
       "minecraft:cold_ocean": "2020-12-31 00:37:51 +0000",
       "minecraft:snowy_mountains": "2020-12-30 00:09:52 +0000",
       "minecraft:forest": "2020-12-29 22:40:02 +0000",
+      "minecraft:badlands_plateau": "2021-01-02 18:32:29 +0000",
       "minecraft:taiga": "2020-12-29 23:54:08 +0000",
       "minecraft:desert_hills": "2020-12-31 00:18:12 +0000",
+      "minecraft:deep_cold_ocean": "2021-01-02 18:54:23 +0000",
       "minecraft:snowy_tundra": "2020-12-30 00:09:38 +0000",
       "minecraft:taiga_hills": "2020-12-29 23:54:20 +0000",
       "minecraft:desert": "2020-12-30 04:01:11 +0000",
@@ -5655,6 +6157,7 @@
       "minecraft:snowy_beach": "2020-12-31 00:43:07 +0000",
       "minecraft:warm_ocean": "2020-12-31 00:18:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-31 01:02:24 +0000",
+      "minecraft:badlands": "2021-01-02 18:32:19 +0000",
       "minecraft:savanna_plateau": "2020-12-30 14:42:52 +0000",
       "minecraft:beach": "2020-12-29 22:39:15 +0000",
       "minecraft:river": "2020-12-29 23:21:25 +0000",
@@ -5731,6 +6234,12 @@
   "pitg:recipes/pitg/black_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
     },
     "done": true
   },
@@ -5926,6 +6435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2020-12-30 01:56:22 +0000"
@@ -5953,6 +6468,12 @@
   "botania:recipes/botania/mushroom_8": {
     "criteria": {
       "has_alt_item": "2020-12-30 12:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
     },
     "done": true
   },
@@ -5992,6 +6513,18 @@
     },
     "done": true
   },
+  "industrialforegoing:recipes/industrialforegoing_core/dryrubber": {
+    "criteria": {
+      "has_item": "2021-01-03 00:27:27 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/skull_light": {
     "criteria": {
       "has_iron": "2020-12-29 23:01:26 +0000"
@@ -6028,6 +6561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-02 11:37:23 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2020-12-30 23:51:11 +0000"
@@ -6040,9 +6579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2020-12-29 22:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -6067,6 +6618,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2020-12-30 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/bumper_rail": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -6184,6 +6741,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-01-02 19:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-01-03 00:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-12-29 23:34:09 +0000"
@@ -6208,6 +6777,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/timed_holding_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2020-12-31 01:41:39 +0000"
@@ -6226,6 +6801,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blood_pendant": {
+    "criteria": {
+      "has_item": "2021-01-02 19:31:51 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/copper_shovel": {
     "criteria": {
       "has_ingots_copper": "2020-12-30 01:56:22 +0000"
@@ -6235,6 +6816,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2020-12-30 16:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
@@ -6349,6 +6936,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-12-30 00:29:57 +0000",
+      "cooked_mutton": "2021-01-02 10:44:32 +0000",
       "cooked_beef": "2020-12-30 16:32:59 +0000",
       "cooked_cod": "2020-12-29 23:14:31 +0000",
       "bread": "2020-12-30 13:26:00 +0000",
@@ -6382,6 +6970,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/antlers_to_bonemeal": {
+    "criteria": {
+      "has_antlers": "2021-01-02 15:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2020-12-30 13:07:27 +0000"
@@ -6391,6 +6985,12 @@
   "mysticalworld:recipes/mysticalworld/beetroot_salad": {
     "criteria": {
       "has_kelp": "2020-12-29 23:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -6436,9 +7036,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/livingrock_bricks": {
     "criteria": {
       "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_aubergine_from_smoker": {
+    "criteria": {
+      "has_crops_eggplant": "2021-01-03 01:16:11 +0000"
     },
     "done": true
   },
@@ -6472,6 +7084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_plate": {
     "criteria": {
       "has_item": "2020-12-30 16:31:44 +0000"
@@ -6487,6 +7105,12 @@
   "mysticalworld:recipes/mysticalworld/lilac_cordial": {
     "criteria": {
       "has_first": "2020-12-30 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-01-02 19:12:08 +0000"
     },
     "done": true
   },
@@ -6511,6 +7135,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2020-12-30 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
     },
     "done": true
   },
@@ -6568,9 +7198,27 @@
     },
     "done": true
   },
+  "extlights:recipes/light_lantern_shroomlight_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-02 12:46:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2020-12-30 03:55:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2021-01-02 10:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
     },
     "done": true
   },
@@ -6634,6 +7282,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/switch_rail": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/swallowtail_pennant": {
     "criteria": {
       "has_string": "2020-12-30 01:19:18 +0000"
@@ -6646,6 +7300,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/modular_boat_from_dark_oak": {
+    "criteria": {
+      "has_item": "2021-01-02 18:34:21 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/spruce_palisade": {
     "criteria": {
       "has_log": "2020-12-30 12:04:58 +0000"
@@ -6655,6 +7315,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2020-12-30 01:56:22 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -6721,6 +7387,12 @@
   "mysticalworld:recipes/mysticalworld/thatch": {
     "criteria": {
       "has_wheat": "2020-12-29 23:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-02 11:37:23 +0000"
     },
     "done": true
   },
@@ -6826,6 +7498,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/encyclopedia": {
+    "criteria": {
+      "has_aubergine": "2021-01-03 01:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-12-30 03:27:53 +0000"
@@ -6901,6 +7585,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-12-31 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
     },
     "done": true
   },
@@ -7027,6 +7723,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-12-29 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
     },
     "done": true
   },
@@ -7174,6 +7876,12 @@
     },
     "done": true
   },
+  "transport:recipes/transport/transport_holding_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2020-12-30 13:08:24 +0000"
@@ -7288,6 +7996,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/cooked_aubergine": {
+    "criteria": {
+      "has_crops_eggplant": "2021-01-03 01:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:44:50 +0000"
@@ -7309,6 +8023,12 @@
   "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2020-12-30 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
     },
     "done": true
   },
@@ -7366,6 +8086,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/cooked_aubergine_from_campfire": {
+    "criteria": {
+      "has_crops_eggplant": "2021-01-03 01:16:11 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/red_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -7402,6 +8134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/dark_oak_palisade": {
     "criteria": {
       "has_log": "2020-12-31 15:40:31 +0000"
@@ -7411,6 +8149,12 @@
   "mysticalworld:recipes/mysticalworld/vegetable_juice": {
     "criteria": {
       "has_apple": "2020-12-30 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_timed_holding_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
     },
     "done": true
   },
@@ -7453,6 +8197,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-12-30 16:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -7558,6 +8308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-01-02 14:58:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2020-12-30 00:05:40 +0000"
@@ -7648,6 +8404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/stewed_eggplant": {
     "criteria": {
       "has_cooked_aubergine": "2020-12-30 16:05:49 +0000"
@@ -7681,6 +8443,18 @@
   "transport:recipes/transport/item_loader": {
     "criteria": {
       "has_item": "2020-12-29 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_switch_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/jungle_support": {
+    "criteria": {
+      "has_plank": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -7726,6 +8500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2020-12-29 23:03:35 +0000"
@@ -7759,6 +8539,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/cargo_minecart_from_iron": {
+    "criteria": {
+      "has_item": "2021-01-02 17:05:46 +0000"
     },
     "done": true
   },
@@ -7804,6 +8590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-01 17:14:12 +0000"
@@ -7843,6 +8635,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2020-12-30 13:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-01-02 14:57:40 +0000"
     },
     "done": true
   },
@@ -7894,9 +8692,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-01-03 00:51:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2020-12-30 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-01-02 17:05:46 +0000"
     },
     "done": true
   },
@@ -7978,9 +8788,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-02 18:49:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2020-12-30 00:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-01-02 18:29:35 +0000"
     },
     "done": true
   },
