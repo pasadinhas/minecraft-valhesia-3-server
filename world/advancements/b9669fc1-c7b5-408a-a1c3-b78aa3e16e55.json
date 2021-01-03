@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-01-03 20:56:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cracked_livingrock_bricks": {
     "criteria": {
       "has_item": "2021-01-01 16:37:01 +0000"
@@ -458,6 +464,12 @@
   "mysticalworld:recipes/mysticalworld/silver_axe": {
     "criteria": {
       "has_ingots_silver": "2020-12-30 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-01-03 17:08:05 +0000"
     },
     "done": true
   },
@@ -941,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-01-03 17:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2020-12-29 23:23:09 +0000"
@@ -1046,6 +1064,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-12-30 00:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-01-03 17:41:05 +0000"
     },
     "done": true
   },
@@ -1781,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-01-03 17:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-12-29 23:23:09 +0000"
@@ -1949,6 +1979,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-01-03 16:57:48 +0000"
     },
     "done": true
   },
@@ -2642,6 +2678,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-01-03 19:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
@@ -2987,6 +3029,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-12-30 12:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-01-03 19:50:20 +0000"
     },
     "done": true
   },
@@ -3767,6 +3815,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-12-30 00:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-01-03 20:52:23 +0000"
     },
     "done": true
   },
@@ -4664,6 +4718,12 @@
     },
     "done": true
   },
+  "pitg:recipes/pitg/green_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-01-03 17:41:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-01 17:14:12 +0000"
@@ -4673,6 +4733,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2021-01-02 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2021-01-03 19:50:20 +0000"
     },
     "done": true
   },
@@ -5068,6 +5134,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/ender_pearl_from_unripe_pearls": {
+    "criteria": {
+      "has_young_pearl": "2021-01-03 20:44:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-12-29 23:00:14 +0000"
@@ -5405,6 +5477,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-03 20:15:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/twig_wand": {
     "criteria": {
       "has_item": "2020-12-30 03:49:36 +0000"
@@ -5507,6 +5585,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-03 20:39:47 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/pickaxe_steel": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
@@ -5552,6 +5636,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-12-31 17:25:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/azulejo_0": {
+    "criteria": {
+      "has_item": "2021-01-03 17:41:05 +0000"
     },
     "done": true
   },
@@ -5834,6 +5924,12 @@
   "biomesoplenty:recipes/building_blocks/willow_wood": {
     "criteria": {
       "has_log": "2020-12-31 15:37:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2021-01-03 19:50:20 +0000"
     },
     "done": true
   },
@@ -6212,6 +6308,12 @@
   "transport:recipes/transport/modular_boat_from_oak": {
     "criteria": {
       "has_item": "2020-12-29 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2021-01-03 17:08:05 +0000"
     },
     "done": true
   },
@@ -6633,6 +6735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-01-03 16:57:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/water_rod": {
     "criteria": {
       "has_item": "2020-12-31 13:41:19 +0000"
@@ -6702,6 +6810,12 @@
   "transport:recipes/transport/bumper_rail": {
     "criteria": {
       "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-01-03 17:08:05 +0000"
     },
     "done": true
   },
@@ -6972,6 +7086,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_alt_item": "2020-12-30 19:36:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2021-01-03 19:50:20 +0000"
     },
     "done": true
   },
@@ -7660,6 +7780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-01-03 19:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2020-12-31 15:58:51 +0000"
@@ -8242,6 +8368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-01-03 19:46:57 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/white_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 02:24:33 +0000"
@@ -8683,6 +8815,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-02 18:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-03 20:39:47 +0000"
     },
     "done": true
   },

@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2020-12-30 02:39:32 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/mysticalworld/quicksilver_knife_from_ingots_quicksilver": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2020-12-29 23:38:52 +0000"
@@ -569,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-01-03 20:46:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_item": "2020-12-30 00:25:03 +0000"
@@ -602,6 +620,12 @@
   "mysticalworld:recipes/mysticalworld/lead_shovel": {
     "criteria": {
       "has_ingots_lead": "2020-12-30 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -1055,6 +1079,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/quicksilver_chestplate": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-12-30 01:23:27 +0000"
@@ -1259,6 +1289,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "bowl": "2020-12-30 00:25:03 +0000"
@@ -1385,6 +1421,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2020-12-30 01:23:27 +0000"
@@ -1458,6 +1500,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-12-30 03:13:05 +0000"
@@ -1527,6 +1575,12 @@
   "mysticalworld:recipes/mysticalworld/aubergine_salad": {
     "criteria": {
       "has_aubergine": "2020-12-30 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -1647,6 +1701,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
     "criteria": {
       "has_plate": "2020-12-30 18:07:38 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_quicksilver_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -1938,6 +1998,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:41 +0000"
@@ -1989,6 +2055,12 @@
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_ingredient": "2020-12-30 03:13:05 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/quicksilver_pickaxe": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -2400,6 +2472,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/quicksilver_leggings": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2020-12-30 00:25:03 +0000"
@@ -2655,6 +2733,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-12-29 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/quicksilver_boots": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -2970,6 +3054,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2020-12-30 01:23:27 +0000"
@@ -2979,6 +3069,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-12-30 17:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-01-03 20:53:30 +0000"
     },
     "done": true
   },
@@ -3977,6 +4073,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/misc/ender_pearl_from_unripe_pearls": {
+    "criteria": {
+      "has_young_pearl": "2021-01-03 20:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-12-29 23:01:31 +0000"
@@ -3998,6 +4100,12 @@
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-30 01:23:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -4084,9 +4192,11 @@
       "minecraft:magma_cube": "2020-12-30 17:08:23 +0000",
       "minecraft:spider": "2020-12-31 00:51:14 +0000",
       "minecraft:creeper": "2020-12-30 15:14:16 +0000",
+      "minecraft:ender_dragon": "2021-01-03 20:46:42 +0000",
       "minecraft:cave_spider": "2020-12-31 16:37:17 +0000",
       "minecraft:piglin": "2021-01-02 19:31:50 +0000",
       "minecraft:silverfish": "2020-12-30 01:31:33 +0000",
+      "minecraft:enderman": "2021-01-03 20:44:01 +0000",
       "minecraft:zombie": "2020-12-29 23:34:23 +0000",
       "minecraft:drowned": "2020-12-29 23:07:00 +0000",
       "minecraft:zombie_villager": "2020-12-31 17:05:17 +0000"
@@ -4108,6 +4218,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-12-29 23:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-01-03 19:29:38 +0000"
     },
     "done": true
   },
@@ -4273,6 +4389,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-03 20:15:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/twig_wand": {
     "criteria": {
       "has_item": "2020-12-31 16:30:24 +0000"
@@ -4288,6 +4410,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-30 14:53:04 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_quicksilver_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -4348,6 +4476,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-02 18:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-03 20:40:02 +0000"
     },
     "done": true
   },
@@ -4561,9 +4695,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2020-12-29 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -5284,6 +5430,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/tin_ingot_from_blasting_dust": {
     "criteria": {
       "has_dusts_tin": "2021-01-02 17:38:52 +0000"
@@ -5305,6 +5457,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-12-30 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/quicksilver_hoe": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -5365,6 +5523,12 @@
   "create:recipes/create.palettes/paved_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2021-01-01 14:53:10 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/quicksilver_sword": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
     },
     "done": true
   },
@@ -6039,6 +6203,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/quicksilver_shovel": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-29 23:01:31 +0000"
@@ -6429,6 +6599,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/quicksilver_axe": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/dark_oak_palisade": {
     "criteria": {
       "has_log": "2021-01-01 12:48:48 +0000"
@@ -6675,6 +6851,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/quicksilver_helmet": {
+    "criteria": {
+      "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/jungle_support": {
     "criteria": {
       "has_plank": "2021-01-02 18:49:48 +0000"
@@ -6780,6 +6962,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-12-30 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-03 20:40:02 +0000"
     },
     "done": true
   },
