@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_axe": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_sword": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
@@ -818,6 +824,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2020-12-30 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_shovel": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -1247,6 +1259,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_hoe": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2020-12-30 03:40:19 +0000"
@@ -1400,6 +1418,12 @@
   "botania:main/runic_altar_pickup": {
     "criteria": {
       "lexicon": "2020-12-30 16:28:04 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_pickaxe": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -1952,6 +1976,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_helmet": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/aubergine_salad": {
     "criteria": {
       "has_kelp": "2020-12-29 23:06:07 +0000"
@@ -2453,6 +2483,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-12-30 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
+    "criteria": {
+      "has_lead_ingot": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -3128,6 +3164,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/ingots_lead_to_9_nuggets": {
+    "criteria": {
+      "has_ingot_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/livingwood_planks": {
     "criteria": {
       "has_item": "2020-12-30 12:09:51 +0000"
@@ -3677,6 +3719,12 @@
   "botania:recipes/botania/chiseled_livingrock_bricks": {
     "criteria": {
       "has_item": "2021-01-01 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wood_spear": {
+    "criteria": {
+      "has_wooden_sword": "2021-01-03 11:58:11 +0000"
     },
     "done": true
   },
@@ -4421,6 +4469,12 @@
   "botania:recipes/botania/monocle": {
     "criteria": {
       "has_item": "2020-12-30 16:09:45 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
+    "criteria": {
+      "has_at_least_9_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -5321,6 +5375,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/lead_leggings": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:36:11 +0000"
@@ -5414,6 +5474,12 @@
   "tetra:upgrades/root": {
     "criteria": {
       "hammer": "2020-12-30 00:56:28 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_sword": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -5558,6 +5624,12 @@
   "botania:recipes/botania/gray_petal_block": {
     "criteria": {
       "has_item": "2020-12-30 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_chestplate": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -6122,6 +6194,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-12-31 12:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mysticalworld/lead_knife_from_ingots_lead": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -6714,6 +6792,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2020-12-30 03:58:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
@@ -8437,6 +8521,12 @@
   "botania:recipes/botania/conversions/red_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2020-12-30 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/lead_boots": {
+    "criteria": {
+      "has_ingots_lead": "2021-01-03 13:18:46 +0000"
     },
     "done": true
   },
