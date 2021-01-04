@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-01-04 19:18:28 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern": {
     "criteria": {
       "has_torch": "2020-12-29 23:22:13 +0000"
@@ -1280,6 +1286,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
     "criteria": {
       "has_gold_dust": "2021-01-01 17:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
     },
     "done": true
   },
@@ -3042,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-01-04 18:39:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 17:49:39 +0000"
@@ -3636,9 +3654,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-01-04 18:45:38 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
     "criteria": {
       "has_at_least_9_ingots_lead": "2020-12-30 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-04 18:52:54 +0000"
     },
     "done": true
   },
@@ -3675,6 +3705,12 @@
   "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2021-01-01 14:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
     },
     "done": true
   },
@@ -3738,6 +3774,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/diamond_spear": {
+    "criteria": {
+      "has_diamond_sword": "2021-01-04 18:45:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2020-12-30 01:33:04 +0000"
@@ -3753,6 +3795,12 @@
   "mysticalworld:recipes/mysticalworld/apple_cordial": {
     "criteria": {
       "has_first": "2020-12-29 23:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
     },
     "done": true
   },
@@ -4193,6 +4241,7 @@
       "minecraft:spider": "2020-12-31 00:51:14 +0000",
       "minecraft:creeper": "2020-12-30 15:14:16 +0000",
       "minecraft:ender_dragon": "2021-01-03 20:46:42 +0000",
+      "minecraft:shulker": "2021-01-04 18:40:23 +0000",
       "minecraft:cave_spider": "2020-12-31 16:37:17 +0000",
       "minecraft:piglin": "2021-01-02 19:31:50 +0000",
       "minecraft:silverfish": "2020-12-30 01:31:33 +0000",
@@ -5550,6 +5599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-12-30 02:07:33 +0000"
@@ -6617,6 +6672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-01-04 18:39:48 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/white_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:40 +0000"
@@ -6953,6 +7014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_blaze": {
     "criteria": {
       "has_item": "2020-12-30 12:27:23 +0000"
@@ -7064,6 +7131,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2020-12-31 01:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:52:53 +0000"
     },
     "done": true
   },

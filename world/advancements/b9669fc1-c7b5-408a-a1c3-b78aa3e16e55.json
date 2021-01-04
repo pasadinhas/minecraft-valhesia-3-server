@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-04 18:48:33 +0000"
+    },
+    "done": true
+  },
   "transport:recipes/transportation/minecraft_powered_rail_from_transport_rails_powered": {
     "criteria": {
       "has_item": "2021-01-02 15:03:40 +0000"
@@ -794,6 +800,12 @@
   "botania:recipes/botania/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2020-12-30 15:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-04 18:48:33 +0000"
     },
     "done": true
   },
@@ -1643,6 +1655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-29 22:48:55 +0000"
@@ -1796,6 +1814,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2020-12-29 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-04 18:48:33 +0000"
     },
     "done": true
   },
@@ -2411,6 +2435,12 @@
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2020-12-30 02:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2021-01-04 18:48:33 +0000"
     },
     "done": true
   },
@@ -3782,6 +3812,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-01-04 18:39:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 02:26:37 +0000"
@@ -4526,9 +4562,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-01-04 18:45:45 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_lead_to_storage_block": {
     "criteria": {
       "has_at_least_9_ingots_lead": "2021-01-03 13:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-04 18:53:03 +0000"
     },
     "done": true
   },
@@ -4577,6 +4625,12 @@
   "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2021-01-01 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
     },
     "done": true
   },
@@ -4697,6 +4751,12 @@
   "mysticalworld:recipes/mysticalworld/apple_cordial": {
     "criteria": {
       "has_first": "2020-12-30 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
     },
     "done": true
   },
@@ -5200,6 +5260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-04 18:48:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2020-12-29 23:01:26 +0000"
@@ -5269,6 +5335,7 @@
       "minecraft:witch": "2020-12-29 23:48:33 +0000",
       "minecraft:wither_skeleton": "2020-12-30 12:51:27 +0000",
       "minecraft:husk": "2020-12-31 00:22:29 +0000",
+      "minecraft:shulker": "2021-01-04 18:39:47 +0000",
       "minecraft:cave_spider": "2020-12-30 01:19:17 +0000",
       "minecraft:piglin": "2020-12-30 12:37:19 +0000",
       "minecraft:enderman": "2020-12-29 23:02:33 +0000",
@@ -5771,6 +5838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-01-04 21:35:41 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/cooked_carrot_from_smoker": {
     "criteria": {
       "has_crops_carrot": "2020-12-31 00:19:44 +0000"
@@ -5852,6 +5925,12 @@
   "neoncraft:recipes/neon_tube_craft": {
     "criteria": {
       "has_ingredient": "2020-12-30 16:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2021-01-04 18:48:33 +0000"
     },
     "done": true
   },
@@ -6954,6 +7033,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-12-29 23:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
     },
     "done": true
   },
@@ -8326,6 +8411,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/acacia_palisade": {
+    "criteria": {
+      "has_log": "2021-01-04 21:35:41 +0000"
+    },
+    "done": true
+  },
   "extlights:recipes/pig_fat_craft": {
     "criteria": {
       "has_ingredient": "2020-12-30 00:04:39 +0000"
@@ -8365,6 +8456,12 @@
   "transport:recipes/transport/transport_timed_holding_rail_from_transport_rails_powered": {
     "criteria": {
       "has_item": "2021-01-02 15:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-01-04 18:39:49 +0000"
     },
     "done": true
   },
@@ -8455,6 +8552,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-01-01 17:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-01-04 21:35:41 +0000"
     },
     "done": true
   },
@@ -8794,6 +8897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_blaze": {
     "criteria": {
       "has_item": "2020-12-30 12:28:29 +0000"
@@ -8935,6 +9044,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-01-02 17:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-04 18:54:13 +0000"
     },
     "done": true
   },
