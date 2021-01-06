@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2021-01-05 22:32:07 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/tin_sword": {
     "criteria": {
       "has_ingots_tin": "2021-01-02 17:37:58 +0000"
@@ -1551,6 +1557,12 @@
   "create:recipes/create.palettes/crafting/palettes/dark_scoria": {
     "criteria": {
       "has_item": "2021-01-01 14:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2021-01-05 19:50:08 +0000"
     },
     "done": true
   },
@@ -3042,6 +3054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-01-05 23:33:10 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
     "criteria": {
       "has_conveyor": "2020-12-30 18:07:38 +0000"
@@ -3147,6 +3165,12 @@
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "baked_potato": "2020-12-30 16:10:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fertilizer_dye": {
+    "criteria": {
+      "has_item": "2021-01-05 19:50:08 +0000"
     },
     "done": true
   },
@@ -3816,6 +3840,12 @@
     },
     "done": true
   },
+  "pitg:recipes/pitg/green_dye": {
+    "criteria": {
+      "has_yellow_dye": "2021-01-05 19:50:08 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
     "criteria": {
       "has_hammer": "2020-12-30 18:01:02 +0000"
@@ -4060,6 +4090,12 @@
       "undergrowth": "2020-12-30 12:39:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-01-05 19:50:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -7137,6 +7173,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-01-04 18:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2021-01-05 19:50:08 +0000"
     },
     "done": true
   },
