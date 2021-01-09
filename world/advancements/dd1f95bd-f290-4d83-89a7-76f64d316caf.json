@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_pantry": {
+    "criteria": {
+      "oak_trapdoor": "2021-01-09 00:05:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2020-12-29 23:16:54 +0000"
@@ -3750,6 +3756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-01-08 19:34:00 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/cyan_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:41 +0000"
@@ -4879,6 +4891,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-12-30 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2021-01-09 01:24:23 +0000"
     },
     "done": true
   },
