@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "extlights:recipes/light_lantern_bulb_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-12-29 23:16:54 +0000"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-01-09 19:29:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/quartz_sunny": {
     "criteria": {
       "has_item": "2020-12-30 12:27:23 +0000"
@@ -200,6 +212,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
     "criteria": {
       "has_metal_rod": "2020-12-30 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2021-01-01 12:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -629,6 +653,12 @@
     },
     "done": true
   },
+  "mysticalworld:recipes/mysticalworld/terracotta_brick_from_terracotta_stonecutting": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2021-01-01 15:12:35 +0000"
@@ -893,6 +923,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:52:57 +0000"
@@ -983,6 +1019,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_red_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-12-30 14:33:59 +0000"
@@ -1040,6 +1082,12 @@
   "create:recipes/create.palettes/granite_pillar": {
     "criteria": {
       "has_ingredient": "2020-12-30 01:20:54 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_lamp_paper_cyan_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -1175,6 +1223,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_blinking_redblue_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-30 01:09:43 +0000"
@@ -1220,6 +1274,12 @@
   "extlights:recipes/blaze_tube_craft_alt": {
     "criteria": {
       "has_ingredient": "2020-12-30 16:55:41 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_blinking_greenblue_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -1572,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-12-29 22:50:11 +0000"
@@ -1656,6 +1722,12 @@
     },
     "done": true
   },
+  "extlights:recipes/light_lantern_paper_cyan_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_crate": {
     "criteria": {
       "tomato": "2020-12-30 14:47:33 +0000"
@@ -1695,6 +1767,12 @@
   "extlights:recipes/light_shroom_stem_hyphae_craft_alt": {
     "criteria": {
       "has_ingredient": "2020-12-30 13:07:07 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_lamp_paper_red_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -2079,6 +2157,12 @@
   "fairylights:recipes/fairylights/square_pennant": {
     "criteria": {
       "has_paper": "2020-12-29 23:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -2670,6 +2754,12 @@
     },
     "done": true
   },
+  "extlights:recipes/light_lantern_caged_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honey_block": {
     "criteria": {
       "has_honey_bottle": "2020-12-31 01:47:19 +0000"
@@ -2769,6 +2859,12 @@
   "mysticalworld:recipes/mysticalworld/quicksilver_boots": {
     "criteria": {
       "has_ingots_quicksilver": "2021-01-03 19:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -2994,6 +3090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2020-12-30 03:44:07 +0000"
@@ -3069,6 +3171,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
     "criteria": {
       "has_conveyor": "2020-12-30 18:07:38 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/wood_spear": {
+    "criteria": {
+      "has_wooden_sword": "2021-01-09 18:07:29 +0000"
     },
     "done": true
   },
@@ -3270,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-01-09 20:56:52 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2020-12-30 01:23:27 +0000"
@@ -3321,6 +3435,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2021-01-02 18:49:49 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_lantern_fancy_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -3456,6 +3576,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/firework": {
+    "criteria": {
+      "has_firework": "2021-01-09 19:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2020-12-30 13:08:05 +0000"
@@ -3579,6 +3705,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-30 14:53:04 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_lamp_bulb_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -3930,6 +4062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pestle_and_mortar": {
     "criteria": {
       "has_item": "2020-12-29 22:56:44 +0000"
@@ -3951,6 +4089,12 @@
   "pitg:recipes/pitg/magenta_stained_dualglasspane": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -4026,6 +4170,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_blinking_redgreen_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-30 13:41:25 +0000"
@@ -4076,6 +4226,7 @@
       "tropical_rainforest": "2020-12-30 00:39:28 +0000",
       "scrubland": "2020-12-30 04:00:39 +0000",
       "bayou": "2020-12-31 01:42:41 +0000",
+      "floodplain": "2021-01-09 19:26:01 +0000",
       "highland": "2020-12-31 01:13:12 +0000",
       "marsh": "2020-12-29 23:21:14 +0000",
       "chaparral": "2020-12-31 00:13:51 +0000",
@@ -4091,6 +4242,7 @@
       "mangrove": "2021-01-02 15:20:05 +0000",
       "redwood_forest": "2020-12-30 00:37:32 +0000",
       "visceral_heap": "2020-12-30 12:39:18 +0000",
+      "cherry_blossom_grove": "2021-01-09 19:23:19 +0000",
       "highland_moor": "2020-12-30 00:21:06 +0000",
       "dead_forest": "2020-12-30 00:10:41 +0000",
       "pasture": "2021-01-02 18:39:42 +0000",
@@ -4099,7 +4251,9 @@
       "grassland": "2020-12-31 01:10:33 +0000",
       "prairie": "2021-01-02 18:37:28 +0000",
       "tundra": "2020-12-30 04:18:42 +0000",
-      "undergrowth": "2020-12-30 12:39:14 +0000"
+      "undergrowth": "2020-12-30 12:39:14 +0000",
+      "lush_grassland": "2021-01-09 19:26:06 +0000",
+      "mire": "2021-01-09 19:25:21 +0000"
     },
     "done": false
   },
@@ -4130,6 +4284,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-12-30 01:09:43 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_smooth_rgb_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -4178,6 +4338,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-12-29 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_blue_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -4438,6 +4604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-01-02 19:47:36 +0000"
@@ -4690,6 +4862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-01-09 19:23:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/speedloader": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 17:49:39 +0000"
@@ -4750,6 +4928,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_green_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-12-29 22:51:53 +0000"
@@ -4801,6 +4985,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2020-12-29 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_blinking_rgb_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -5038,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "pitg:recipes/pitg/brown_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:41 +0000"
@@ -5092,6 +5288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/misc/gold_ingot_from_blasting_dust": {
     "criteria": {
       "has_dusts_gold": "2021-01-01 17:12:05 +0000"
@@ -5122,6 +5324,7 @@
       "minecraft:birch_forest": "2020-12-30 04:00:48 +0000",
       "minecraft:jungle_hills": "2020-12-31 01:44:14 +0000",
       "minecraft:snowy_beach": "2020-12-31 00:44:48 +0000",
+      "minecraft:bamboo_jungle": "2021-01-09 19:26:26 +0000",
       "minecraft:warm_ocean": "2020-12-31 00:19:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-31 01:02:51 +0000",
       "minecraft:badlands": "2021-01-02 18:32:18 +0000",
@@ -5497,6 +5700,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-01-09 19:29:15 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_smooth_redgreen_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_steel_ingot": "2020-12-30 17:49:38 +0000"
@@ -5533,6 +5748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
     "criteria": {
       "has_storage_aluminum": "2021-01-03 19:18:31 +0000"
@@ -5542,6 +5763,12 @@
   "mysticalworld:recipes/mysticalworld/tin_ingot_from_blasting_dust": {
     "criteria": {
       "has_dusts_tin": "2021-01-02 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -5778,6 +6005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "transport:recipes/transport/rail_breaker": {
     "criteria": {
       "has_item": "2020-12-30 01:23:27 +0000"
@@ -5961,6 +6194,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2020-12-30 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/xmas_bulb_smooth_greenblue_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },
@@ -6216,6 +6455,12 @@
     },
     "done": true
   },
+  "extlights:recipes/xmas_bulb_smooth_redblue_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-12-30 01:20:54 +0000"
@@ -6276,6 +6521,12 @@
     },
     "done": true
   },
+  "extlights:recipes/light_lantern_square_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2020-12-30 01:23:27 +0000"
@@ -6327,6 +6578,12 @@
   "farmersdelight:recipes/farmersdelight/raw_pasta": {
     "criteria": {
       "has_egg": "2020-12-30 04:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-01-09 20:56:52 +0000"
     },
     "done": true
   },
@@ -6636,6 +6893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-12-30 12:52:57 +0000"
@@ -6669,6 +6932,12 @@
   "pitg:recipes/pitg/red_stained_glasspane": {
     "criteria": {
       "has_glass": "2020-12-30 14:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -6765,6 +7034,12 @@
   "mysticalworld:recipes/mysticalworld/tin_hoe": {
     "criteria": {
       "has_ingots_tin": "2021-01-02 17:37:58 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:recipes/mysticalworld/terracotta_brick": {
+    "criteria": {
+      "has_terracotta": "2021-01-09 20:02:20 +0000"
     },
     "done": true
   },
@@ -6987,6 +7262,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2021-01-01 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "extlights:recipes/light_lantern_paper_red_craft": {
+    "criteria": {
+      "has_ingredient": "2021-01-09 19:05:24 +0000"
     },
     "done": true
   },

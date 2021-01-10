@@ -4292,6 +4292,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/firework": {
+    "criteria": {
+      "has_firework": "2021-01-09 17:55:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/livingwood_planks_stairs": {
     "criteria": {
       "has_item": "2020-12-30 20:01:32 +0000"
@@ -5338,6 +5344,8 @@
       "minecraft:magma_cube": "2020-12-30 17:08:18 +0000",
       "minecraft:spider": "2020-12-30 12:02:06 +0000",
       "minecraft:creeper": "2020-12-30 01:32:18 +0000",
+      "minecraft:phantom": "2021-01-09 18:37:38 +0000",
+      "minecraft:zombified_piglin": "2021-01-09 18:37:02 +0000",
       "minecraft:witch": "2020-12-29 23:48:33 +0000",
       "minecraft:wither_skeleton": "2020-12-30 12:51:27 +0000",
       "minecraft:husk": "2020-12-31 00:22:29 +0000",
